@@ -1,0 +1,10 @@
+{
+	"name": "com.zeshmouttsassets.vertexcolorshader",
+	"displayName":"Unity Vertex Color Shader",
+	"version": "1.0.0",
+	"unity": "2018.4",
+	"unityRelease": "15f1",
+	"description": "A basic shader that uses vertex colors as tint masks.",
+	"keywords": ["unity", "shader", "vertex color"],
+	"dependencies": { }
+}

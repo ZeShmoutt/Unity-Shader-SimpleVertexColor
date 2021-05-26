@@ -1,0 +1,20 @@
+{
+    "name": "Unity Vertex Color Shader (Editor)",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9e978b6a80da16c4b9f4c9d248d86175"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_2018_4_OR_NEWER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
